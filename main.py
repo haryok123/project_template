@@ -11,7 +11,9 @@ def main():
     output_text_to_console("\nText from file.txt:\n" + file_text)
     output_text_to_console("\nText from file.csv:\n" + pandas_text)
 
-    write_text_to_file("output.txt", "User input:\n" + user_input + "\n\nText from file.txt:\n" + file_text + "\n\nText from file.csv:\n" + pandas_text)
+    write_text_to_file("output.txt", "User input:\n" + user_input
+                       + "\n\nText from file.txt:\n" + file_text
+                       + "\n\nText from file.csv:\n" + pandas_text)
 
 
 if __name__ == "__main__":
