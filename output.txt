@@ -1,0 +1,17 @@
+User input:
+My text to read
+
+Text from file.txt:
+How the snow will come down from the mountains in streams,
+Oh, deep, in the spring.
+You will dream of a blue-eyed flower,
+Away from me, away...
+But autumn did not cover that trail with leaves,
+Because I will return to you in the spring, dear...
+I will take your hands in mine again,
+The yellow flower of separation will not bloom between us!
+
+Text from file.csv:
+2  Jane   Smith
+3 David Johnson
+4 Emily   Brown
